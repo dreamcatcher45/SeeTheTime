@@ -3,6 +3,8 @@
 ## Overview
 **See The Time** is a simple Chrome extension that replaces the default new tab page with a clock, providing users with an easy way to check the time at a glance. This extension utilizes HTML and JavaScript to display the current time and can be customized to fit user preferences.
 
+![Alt text for demo image](media/demo.png)
+
 ## Features
 - **Displays Current Time**: Shows the current time in a user-friendly format.
 - **Lightweight**: Minimal impact on browser performance.
