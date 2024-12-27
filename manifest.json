@@ -4,7 +4,7 @@
     "version": "1.0",
     "description": "Displays a clock in new tabs.",
     "chrome_url_overrides": {
-      "newtab": "clock.html"
+      "newtab": "index.html"
     },
     "web_accessible_resources": [{
       "resources": ["moment.min.js", "fonts/*.ttf"],
