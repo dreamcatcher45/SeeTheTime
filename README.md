@@ -16,7 +16,7 @@ To add the **See The Time** extension to your Chrome browser, follow these steps
 1. **Download or Clone the Repository**:
    - You can download the repository as a ZIP file from GitHub or clone it using Git:
      ```bash
-     git clone https://github.com/yourusername/see-the-time.git
+     git clone https://github.com/dreamcatcher45/see-the-time.git
      ```
 
 2. **Open Chrome Extensions Page**:
